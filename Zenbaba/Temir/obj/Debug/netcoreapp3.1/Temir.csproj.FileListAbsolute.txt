@@ -1,0 +1,14 @@
+C:\Users\mushe\Finproj\Zenbaba\Temir\bin\Debug\netcoreapp3.1\Temir.exe
+C:\Users\mushe\Finproj\Zenbaba\Temir\bin\Debug\netcoreapp3.1\Temir.deps.json
+C:\Users\mushe\Finproj\Zenbaba\Temir\bin\Debug\netcoreapp3.1\Temir.runtimeconfig.json
+C:\Users\mushe\Finproj\Zenbaba\Temir\bin\Debug\netcoreapp3.1\Temir.runtimeconfig.dev.json
+C:\Users\mushe\Finproj\Zenbaba\Temir\bin\Debug\netcoreapp3.1\Temir.dll
+C:\Users\mushe\Finproj\Zenbaba\Temir\bin\Debug\netcoreapp3.1\Temir.pdb
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.AssemblyInfoInputs.cache
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.AssemblyInfo.cs
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.csproj.CoreCompileInputs.cache
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.dll
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.pdb
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.genruntimeconfig.cache
+C:\Users\mushe\Finproj\Zenbaba\Temir\obj\Debug\netcoreapp3.1\Temir.csproj.AssemblyReference.cache
