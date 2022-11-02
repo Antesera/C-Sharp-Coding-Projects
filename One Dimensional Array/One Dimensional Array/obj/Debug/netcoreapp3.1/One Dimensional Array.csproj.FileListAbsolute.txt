@@ -1,0 +1,14 @@
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.csproj.AssemblyReference.cache
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.AssemblyInfoInputs.cache
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.AssemblyInfo.cs
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\bin\Debug\netcoreapp3.1\One Dimensional Array.exe
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\bin\Debug\netcoreapp3.1\One Dimensional Array.deps.json
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\bin\Debug\netcoreapp3.1\One Dimensional Array.runtimeconfig.json
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\bin\Debug\netcoreapp3.1\One Dimensional Array.runtimeconfig.dev.json
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\bin\Debug\netcoreapp3.1\One Dimensional Array.dll
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\bin\Debug\netcoreapp3.1\One Dimensional Array.pdb
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.dll
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.pdb
+C:\Users\mushe\source\repos\One Dimensional Array\One Dimensional Array\obj\Debug\netcoreapp3.1\One Dimensional Array.genruntimeconfig.cache
