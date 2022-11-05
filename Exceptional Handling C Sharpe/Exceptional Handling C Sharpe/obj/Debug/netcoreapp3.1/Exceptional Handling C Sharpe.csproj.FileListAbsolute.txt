@@ -1,0 +1,5 @@
+C:\Users\mushe\source\repos\Exceptional Handling C Sharpe\Exceptional Handling C Sharpe\obj\Debug\netcoreapp3.1\Exceptional Handling C Sharpe.csproj.AssemblyReference.cache
+C:\Users\mushe\source\repos\Exceptional Handling C Sharpe\Exceptional Handling C Sharpe\obj\Debug\netcoreapp3.1\Exceptional Handling C Sharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\repos\Exceptional Handling C Sharpe\Exceptional Handling C Sharpe\obj\Debug\netcoreapp3.1\Exceptional Handling C Sharpe.AssemblyInfoInputs.cache
+C:\Users\mushe\source\repos\Exceptional Handling C Sharpe\Exceptional Handling C Sharpe\obj\Debug\netcoreapp3.1\Exceptional Handling C Sharpe.AssemblyInfo.cs
+C:\Users\mushe\source\repos\Exceptional Handling C Sharpe\Exceptional Handling C Sharpe\obj\Debug\netcoreapp3.1\Exceptional Handling C Sharpe.csproj.CoreCompileInputs.cache
