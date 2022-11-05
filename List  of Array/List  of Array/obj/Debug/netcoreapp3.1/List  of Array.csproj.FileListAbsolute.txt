@@ -1,0 +1,14 @@
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.csproj.AssemblyReference.cache
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.AssemblyInfoInputs.cache
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.AssemblyInfo.cs
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\repos\List  of Array\List  of Array\bin\Debug\netcoreapp3.1\List  of Array.exe
+C:\Users\mushe\source\repos\List  of Array\List  of Array\bin\Debug\netcoreapp3.1\List  of Array.deps.json
+C:\Users\mushe\source\repos\List  of Array\List  of Array\bin\Debug\netcoreapp3.1\List  of Array.runtimeconfig.json
+C:\Users\mushe\source\repos\List  of Array\List  of Array\bin\Debug\netcoreapp3.1\List  of Array.runtimeconfig.dev.json
+C:\Users\mushe\source\repos\List  of Array\List  of Array\bin\Debug\netcoreapp3.1\List  of Array.dll
+C:\Users\mushe\source\repos\List  of Array\List  of Array\bin\Debug\netcoreapp3.1\List  of Array.pdb
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.dll
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.pdb
+C:\Users\mushe\source\repos\List  of Array\List  of Array\obj\Debug\netcoreapp3.1\List  of Array.genruntimeconfig.cache
