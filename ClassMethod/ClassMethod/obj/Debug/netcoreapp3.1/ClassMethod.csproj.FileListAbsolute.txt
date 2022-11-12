@@ -1,0 +1,14 @@
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\bin\Debug\netcoreapp3.1\ClassMethod.exe
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\bin\Debug\netcoreapp3.1\ClassMethod.deps.json
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\bin\Debug\netcoreapp3.1\ClassMethod.runtimeconfig.json
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\bin\Debug\netcoreapp3.1\ClassMethod.runtimeconfig.dev.json
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\bin\Debug\netcoreapp3.1\ClassMethod.dll
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\bin\Debug\netcoreapp3.1\ClassMethod.pdb
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.csproj.AssemblyReference.cache
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.AssemblyInfoInputs.cache
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.AssemblyInfo.cs
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.dll
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.pdb
+C:\Users\mushe\source\repos\ClassMethod\ClassMethod\obj\Debug\netcoreapp3.1\ClassMethod.genruntimeconfig.cache
