@@ -1,5 +1,0 @@
-C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.csproj.AssemblyReference.cache
-C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.AssemblyInfoInputs.cache
-C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.AssemblyInfo.cs
-C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.csproj.CoreCompileInputs.cache
