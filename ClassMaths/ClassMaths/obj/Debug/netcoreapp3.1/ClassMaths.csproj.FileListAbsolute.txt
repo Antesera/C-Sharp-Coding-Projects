@@ -1,0 +1,14 @@
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.csproj.AssemblyReference.cache
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.AssemblyInfoInputs.cache
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.AssemblyInfo.cs
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\bin\Debug\netcoreapp3.1\ClassMaths.exe
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\bin\Debug\netcoreapp3.1\ClassMaths.deps.json
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\bin\Debug\netcoreapp3.1\ClassMaths.runtimeconfig.json
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\bin\Debug\netcoreapp3.1\ClassMaths.runtimeconfig.dev.json
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\bin\Debug\netcoreapp3.1\ClassMaths.dll
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\bin\Debug\netcoreapp3.1\ClassMaths.pdb
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.dll
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.pdb
+C:\Users\mushe\source\repos\ClassMaths\ClassMaths\obj\Debug\netcoreapp3.1\ClassMaths.genruntimeconfig.cache
