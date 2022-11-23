@@ -7,16 +7,14 @@ namespace MainMethod1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            MainMethod1.seraClass1  Math = new MainMethod1.seraClass1();
+            MainMethod1.Sera Math = new MainMethod1.Sera();
 
             Math.WhoAmI("Ante");
 
-            Console.WriteLine(value: Math.addMe(3, 8));
-            Console.WriteLine(value: Math.addMe(3, 8, 4));
-            
-
+            Console.WriteLine(8 + 3);
+            Console.ReadLine();
         }
     }
 }

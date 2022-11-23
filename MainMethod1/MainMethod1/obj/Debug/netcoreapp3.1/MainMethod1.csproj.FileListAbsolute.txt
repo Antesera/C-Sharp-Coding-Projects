@@ -1,0 +1,14 @@
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\bin\Debug\netcoreapp3.1\MainMethod1.exe
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\bin\Debug\netcoreapp3.1\MainMethod1.deps.json
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\bin\Debug\netcoreapp3.1\MainMethod1.runtimeconfig.json
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\bin\Debug\netcoreapp3.1\MainMethod1.runtimeconfig.dev.json
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\bin\Debug\netcoreapp3.1\MainMethod1.dll
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\bin\Debug\netcoreapp3.1\MainMethod1.pdb
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.csproj.AssemblyReference.cache
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.AssemblyInfoInputs.cache
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.AssemblyInfo.cs
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.dll
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.pdb
+C:\Users\mushe\source\repos\MainMethod1\MainMethod1\obj\Debug\netcoreapp3.1\MainMethod1.genruntimeconfig.cache
