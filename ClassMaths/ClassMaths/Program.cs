@@ -10,17 +10,19 @@ namespace ClassMaths
     {
         static void Main(string[] args)
         {
-            MathClass1 Class1 = new MathClass1();
+            MathClass1 plus = new MathClass1();
+            int number1, number2;
+            number1 = 5;
+            number2 = 15;
+            plus.Add(number1, number2);
+            plus.AddByReference(ref number1, ref number2);
+            plus.AddMultiple(5, 11, 7, 23, 53);
+
+            Console.WriteLine(plus.Add(number1, number2));
+            //Console.WriteLine(plus.AddByReference(ref number1, ref number2));
+            Console.WriteLine(plus.AddMultiple(5, 11, 7, 23, 53));
 
             
-            Console.WriteLine("please enter the number");
-
-            int div = Convert.ToInt32(Console.ReadLine());
-
-
-            Console.WriteLine(Class1.multiple(div).ToString());
-            Console.WriteLine(Class1.add(div).ToString());
-            Console.WriteLine("Divide Result: " + Class1.Divide(div));
         }
     }
 }
