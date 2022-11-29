@@ -12,12 +12,10 @@ namespace MethodParameter
         private int num2 { get; set; }
 
         //declarative statement of the method
+
         public void MethodParameter1()
         {
-            Console.WriteLine("Enter first number:");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Enter second number:");
+            
         }
         public int MethodParameter1( int num1, int num2)
         {
@@ -35,7 +33,7 @@ namespace MethodParameter
             int result = addTwoIntegers(num1, num2);
             return result;
         }
-        
+
         private int addTwoIntegers(int num1 ,int num2 = 0)
         {
             int sum = num1 + num2;
