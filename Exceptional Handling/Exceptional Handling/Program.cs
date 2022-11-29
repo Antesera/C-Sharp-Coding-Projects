@@ -5,22 +5,23 @@ namespace Exceptional_Handling
 {
     class Program
     {
+        private static int num1;
+        private static int num0;
 
         static void Main(string[] args)
         {
             try
             {
-                List<int> listnum = new List<int> ();
+                List<int> listnum = new List<int> { 1, 15, 25, 40, 6 };
 
-                int x, y, z;
+                
                 Console.WriteLine("please enter the first number ");
-                x = Convert.ToInt32(Console.ReadLine());
+                num0 = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("please enter the second number ");
-                y = Convert.ToInt32(Console.ReadLine());
+                num1 = Convert.ToInt32(Console.ReadLine());
                 foreach ( int i in listnum )
                 {
-                    z = x / y;
-                    Console.WriteLine(z);
+                    Console.WriteLine(i/num0);
                 }          
             }
              catch(DivideByZeroException) //Division by zero attempt
