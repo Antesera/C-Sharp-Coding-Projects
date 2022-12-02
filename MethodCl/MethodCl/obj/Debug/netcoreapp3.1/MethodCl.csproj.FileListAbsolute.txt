@@ -1,0 +1,14 @@
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\bin\Debug\netcoreapp3.1\MethodCl.exe
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\bin\Debug\netcoreapp3.1\MethodCl.deps.json
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\bin\Debug\netcoreapp3.1\MethodCl.runtimeconfig.json
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\bin\Debug\netcoreapp3.1\MethodCl.runtimeconfig.dev.json
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\bin\Debug\netcoreapp3.1\MethodCl.dll
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\bin\Debug\netcoreapp3.1\MethodCl.pdb
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.csproj.AssemblyReference.cache
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.AssemblyInfoInputs.cache
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.AssemblyInfo.cs
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.dll
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.pdb
+C:\Users\mushe\source\C sharpe\MethodCl\MethodCl\obj\Debug\netcoreapp3.1\MethodCl.genruntimeconfig.cache
