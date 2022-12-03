@@ -1,0 +1,14 @@
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\bin\Debug\netcoreapp3.1\OverLoad.exe
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\bin\Debug\netcoreapp3.1\OverLoad.deps.json
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\bin\Debug\netcoreapp3.1\OverLoad.runtimeconfig.json
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\bin\Debug\netcoreapp3.1\OverLoad.runtimeconfig.dev.json
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\bin\Debug\netcoreapp3.1\OverLoad.dll
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\bin\Debug\netcoreapp3.1\OverLoad.pdb
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.csproj.AssemblyReference.cache
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.AssemblyInfoInputs.cache
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.AssemblyInfo.cs
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.dll
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.pdb
+C:\Users\mushe\source\C sharpe\OverLoad\OverLoad\obj\Debug\netcoreapp3.1\OverLoad.genruntimeconfig.cache
