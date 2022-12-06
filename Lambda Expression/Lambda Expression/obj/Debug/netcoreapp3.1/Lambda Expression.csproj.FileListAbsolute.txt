@@ -1,0 +1,14 @@
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.exe
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.deps.json
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.runtimeconfig.json
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.runtimeconfig.dev.json
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.dll
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\bin\Debug\netcoreapp3.1\Lambda Expression.pdb
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.AssemblyInfo.cs
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.dll
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.pdb
+C:\Users\mushe\source\C sharpe\Lambda Expression\Lambda Expression\obj\Debug\netcoreapp3.1\Lambda Expression.genruntimeconfig.cache
